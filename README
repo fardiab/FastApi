@@ -1,3 +1,5 @@
+## Set up development environment
+
 - Create new venv and install all the requirements from the requirements.txt file:
 ```bash
 $ python3 -m venv venv 
